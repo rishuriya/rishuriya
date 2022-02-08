@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently Studying B.Tech in Electronics & Electrical branch.
 - 📫 How to reach me: rdrishav2002@outlook.com
 - ⚡ Fun fact: I hear music while programming
+
+[![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishuriya)](https://github.com/anuraghazra/github-readme-stats)
