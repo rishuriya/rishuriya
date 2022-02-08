@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I hear music while programming
 
 [![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishuriya)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=rishuriya&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishuriya)](https://github.com/anuraghazra/github-readme-stats)
