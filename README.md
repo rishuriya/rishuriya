@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rdrishav2002@outlook.com
 - ⚡ Fun fact: I hear music while programming
 
-[![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishuriya&show_icons=true)]
+![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishuriya&show_icons=true)
 [![@rishav_a2z's Holopin board](https://holopin.me/rishav_a2z)](https://holopin.io/@rishav_a2z)
