@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishuriya&label=Profile%20views&color=0e75b6&style=flat" alt="rishuriya" /> </p>
 
-- 🔭 I’m currently working on **CIR Internship Portal**
+- 🔭 I’m currently working on **Inventory Mangement system for AmritaFbd**
 
 - 🌱 I’m currently learning **Django and React**
 
